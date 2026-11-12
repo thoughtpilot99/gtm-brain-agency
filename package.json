@@ -1,0 +1,28 @@
+{
+  "name": "gtm-brain",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "GTM Brain: one brain per client that every AI agent (Claude Code, Codex, Grok) and every teammate can read.",
+  "workspaces": ["packages/*", "apps/*"],
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "setup": "tsx scripts/setup.ts",
+    "dev": "npm run dev -w @gtm/web",
+    "build": "npm run build -w @gtm/web",
+    "start": "npm run start -w @gtm/web",
+    "gtm": "tsx apps/cli/src/index.ts",
+    "mcp": "tsx apps/mcp/src/stdio.ts",
+    "mcp:http": "tsx apps/mcp/src/http.ts",
+    "sync-skills": "tsx scripts/sync-skills.ts",
+    "test": "vitest run",
+    "typecheck": "tsc -p tsconfig.json --noEmit && npm run typecheck -w @gtm/web",
+    "verify": "npm run typecheck && npm test && tsx scripts/mcp-smoke.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "tsx": "^4.23.15",
+    "typescript": "~5.9.3",
+    "vitest": "^4.0.0"
+  }
+}

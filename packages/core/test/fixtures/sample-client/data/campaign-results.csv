@@ -1,0 +1,451 @@
+email,industry,employees,title,replied,positive,meeting
+contact0@example-bbsaas.com,B2B SaaS,196,VP of Sales,no,no,no
+contact1@example-bbsaas.com,B2B SaaS,170,VP of Sales,no,no,no
+contact2@example-bbsaas.com,B2B SaaS,92,Sales Manager,no,no,no
+contact3@example-bbsaas.com,B2B SaaS,51,Head of RevOps,no,no,no
+contact4@example-bbsaas.com,B2B SaaS,98,VP of Sales,no,no,no
+contact5@example-bbsaas.com,B2B SaaS,153,VP of Sales,no,no,no
+contact6@example-bbsaas.com,B2B SaaS,96,Sales Manager,yes,yes,yes
+contact7@example-bbsaas.com,B2B SaaS,142,Head of RevOps,no,no,no
+contact8@example-bbsaas.com,B2B SaaS,87,Head of RevOps,no,no,no
+contact9@example-bbsaas.com,B2B SaaS,65,Head of RevOps,no,no,no
+contact10@example-bbsaas.com,B2B SaaS,142,Sales Manager,no,no,no
+contact11@example-bbsaas.com,B2B SaaS,76,Head of RevOps,no,no,no
+contact12@example-bbsaas.com,B2B SaaS,131,VP of Sales,no,no,no
+contact13@example-bbsaas.com,B2B SaaS,85,Sales Manager,no,no,no
+contact14@example-bbsaas.com,B2B SaaS,176,Head of RevOps,no,no,no
+contact15@example-bbsaas.com,B2B SaaS,92,Head of RevOps,yes,no,no
+contact16@example-bbsaas.com,B2B SaaS,66,VP of Sales,no,no,no
+contact17@example-bbsaas.com,B2B SaaS,82,VP of Sales,no,no,no
+contact18@example-bbsaas.com,B2B SaaS,61,VP of Sales,no,no,no
+contact19@example-bbsaas.com,B2B SaaS,67,VP of Sales,no,no,no
+contact20@example-bbsaas.com,B2B SaaS,131,VP of Sales,no,no,no
+contact21@example-bbsaas.com,B2B SaaS,197,Head of RevOps,no,no,no
+contact22@example-bbsaas.com,B2B SaaS,188,Head of RevOps,no,no,no
+contact23@example-bbsaas.com,B2B SaaS,128,Sales Manager,no,no,no
+contact24@example-bbsaas.com,B2B SaaS,123,Head of RevOps,no,no,no
+contact25@example-bbsaas.com,B2B SaaS,93,Head of RevOps,no,no,no
+contact26@example-bbsaas.com,B2B SaaS,174,VP of Sales,no,no,no
+contact27@example-bbsaas.com,B2B SaaS,108,VP of Sales,no,no,no
+contact28@example-bbsaas.com,B2B SaaS,133,VP of Sales,yes,no,no
+contact29@example-bbsaas.com,B2B SaaS,158,Sales Manager,no,no,no
+contact30@example-bbsaas.com,B2B SaaS,135,VP of Sales,no,no,no
+contact31@example-bbsaas.com,B2B SaaS,178,VP of Sales,no,no,no
+contact32@example-bbsaas.com,B2B SaaS,63,Sales Manager,yes,no,no
+contact33@example-bbsaas.com,B2B SaaS,194,Sales Manager,no,no,no
+contact34@example-bbsaas.com,B2B SaaS,67,VP of Sales,no,no,no
+contact35@example-bbsaas.com,B2B SaaS,174,Sales Manager,no,no,no
+contact36@example-bbsaas.com,B2B SaaS,164,Head of RevOps,no,no,no
+contact37@example-bbsaas.com,B2B SaaS,173,VP of Sales,no,no,no
+contact38@example-bbsaas.com,B2B SaaS,200,Sales Manager,no,no,no
+contact39@example-bbsaas.com,B2B SaaS,172,Sales Manager,no,no,no
+contact40@example-bbsaas.com,B2B SaaS,72,Head of RevOps,yes,no,no
+contact41@example-bbsaas.com,B2B SaaS,66,Head of RevOps,no,no,no
+contact42@example-bbsaas.com,B2B SaaS,150,VP of Sales,no,no,no
+contact43@example-bbsaas.com,B2B SaaS,147,Sales Manager,no,no,no
+contact44@example-bbsaas.com,B2B SaaS,175,VP of Sales,yes,no,no
+contact45@example-bbsaas.com,B2B SaaS,68,Sales Manager,no,no,no
+contact46@example-bbsaas.com,B2B SaaS,178,VP of Sales,yes,no,no
+contact47@example-bbsaas.com,B2B SaaS,172,Sales Manager,yes,yes,no
+contact48@example-bbsaas.com,B2B SaaS,101,Head of RevOps,no,no,no
+contact49@example-bbsaas.com,B2B SaaS,190,Head of RevOps,no,no,no
+contact50@example-bbsaas.com,B2B SaaS,63,VP of Sales,no,no,no
+contact51@example-bbsaas.com,B2B SaaS,154,VP of Sales,no,no,no
+contact52@example-bbsaas.com,B2B SaaS,57,Sales Manager,yes,yes,yes
+contact53@example-bbsaas.com,B2B SaaS,132,Head of RevOps,no,no,no
+contact54@example-bbsaas.com,B2B SaaS,121,Sales Manager,no,no,no
+contact55@example-bbsaas.com,B2B SaaS,158,VP of Sales,no,no,no
+contact56@example-bbsaas.com,B2B SaaS,197,Head of RevOps,yes,no,no
+contact57@example-bbsaas.com,B2B SaaS,99,VP of Sales,no,no,no
+contact58@example-bbsaas.com,B2B SaaS,152,VP of Sales,yes,yes,yes
+contact59@example-bbsaas.com,B2B SaaS,60,VP of Sales,no,no,no
+contact60@example-bbsaas.com,B2B SaaS,155,Head of RevOps,yes,no,no
+contact61@example-bbsaas.com,B2B SaaS,97,VP of Sales,no,no,no
+contact62@example-bbsaas.com,B2B SaaS,83,Head of RevOps,no,no,no
+contact63@example-bbsaas.com,B2B SaaS,70,Head of RevOps,no,no,no
+contact64@example-bbsaas.com,B2B SaaS,110,VP of Sales,no,no,no
+contact65@example-bbsaas.com,B2B SaaS,134,Head of RevOps,no,no,no
+contact66@example-bbsaas.com,B2B SaaS,130,VP of Sales,no,no,no
+contact67@example-bbsaas.com,B2B SaaS,176,VP of Sales,yes,yes,yes
+contact68@example-bbsaas.com,B2B SaaS,61,VP of Sales,no,no,no
+contact69@example-bbsaas.com,B2B SaaS,52,Sales Manager,no,no,no
+contact70@example-bbsaas.com,B2B SaaS,191,Sales Manager,no,no,no
+contact71@example-bbsaas.com,B2B SaaS,82,VP of Sales,no,no,no
+contact72@example-bbsaas.com,B2B SaaS,114,VP of Sales,no,no,no
+contact73@example-bbsaas.com,B2B SaaS,189,VP of Sales,no,no,no
+contact74@example-bbsaas.com,B2B SaaS,97,Sales Manager,no,no,no
+contact75@example-bbsaas.com,B2B SaaS,130,Head of RevOps,no,no,no
+contact76@example-bbsaas.com,B2B SaaS,148,VP of Sales,no,no,no
+contact77@example-bbsaas.com,B2B SaaS,98,Sales Manager,yes,yes,yes
+contact78@example-bbsaas.com,B2B SaaS,132,Head of RevOps,no,no,no
+contact79@example-bbsaas.com,B2B SaaS,54,Head of RevOps,yes,yes,yes
+contact80@example-bbsaas.com,B2B SaaS,94,Head of RevOps,no,no,no
+contact81@example-bbsaas.com,B2B SaaS,148,Sales Manager,yes,no,no
+contact82@example-bbsaas.com,B2B SaaS,52,Sales Manager,no,no,no
+contact83@example-bbsaas.com,B2B SaaS,73,Head of RevOps,no,no,no
+contact84@example-bbsaas.com,B2B SaaS,56,Sales Manager,no,no,no
+contact85@example-bbsaas.com,B2B SaaS,109,Head of RevOps,no,no,no
+contact86@example-bbsaas.com,B2B SaaS,149,Head of RevOps,yes,no,no
+contact87@example-bbsaas.com,B2B SaaS,165,VP of Sales,no,no,no
+contact88@example-bbsaas.com,B2B SaaS,167,Sales Manager,no,no,no
+contact89@example-bbsaas.com,B2B SaaS,55,Head of RevOps,no,no,no
+contact90@example-bbsaas.com,B2B SaaS,406,VP of Sales,no,no,no
+contact91@example-bbsaas.com,B2B SaaS,309,Sales Manager,no,no,no
+contact92@example-bbsaas.com,B2B SaaS,479,Sales Manager,no,no,no
+contact93@example-bbsaas.com,B2B SaaS,266,VP of Sales,no,no,no
+contact94@example-bbsaas.com,B2B SaaS,214,Head of RevOps,no,no,no
+contact95@example-bbsaas.com,B2B SaaS,456,Head of RevOps,yes,no,no
+contact96@example-bbsaas.com,B2B SaaS,397,Head of RevOps,no,no,no
+contact97@example-bbsaas.com,B2B SaaS,413,VP of Sales,yes,no,no
+contact98@example-bbsaas.com,B2B SaaS,224,VP of Sales,no,no,no
+contact99@example-bbsaas.com,B2B SaaS,341,Head of RevOps,no,no,no
+contact100@example-bbsaas.com,B2B SaaS,277,Head of RevOps,no,no,no
+contact101@example-bbsaas.com,B2B SaaS,480,Head of RevOps,no,no,no
+contact102@example-bbsaas.com,B2B SaaS,301,VP of Sales,yes,yes,no
+contact103@example-bbsaas.com,B2B SaaS,252,Head of RevOps,no,no,no
+contact104@example-bbsaas.com,B2B SaaS,329,VP of Sales,no,no,no
+contact105@example-bbsaas.com,B2B SaaS,434,Head of RevOps,no,no,no
+contact106@example-bbsaas.com,B2B SaaS,215,VP of Sales,no,no,no
+contact107@example-bbsaas.com,B2B SaaS,356,Head of RevOps,no,no,no
+contact108@example-bbsaas.com,B2B SaaS,348,Head of RevOps,no,no,no
+contact109@example-bbsaas.com,B2B SaaS,315,Head of RevOps,no,no,no
+contact110@example-bbsaas.com,B2B SaaS,413,VP of Sales,no,no,no
+contact111@example-bbsaas.com,B2B SaaS,241,Sales Manager,no,no,no
+contact112@example-bbsaas.com,B2B SaaS,293,VP of Sales,no,no,no
+contact113@example-bbsaas.com,B2B SaaS,362,Sales Manager,no,no,no
+contact114@example-bbsaas.com,B2B SaaS,241,VP of Sales,yes,yes,yes
+contact115@example-bbsaas.com,B2B SaaS,329,Head of RevOps,no,no,no
+contact116@example-bbsaas.com,B2B SaaS,390,VP of Sales,yes,no,no
+contact117@example-bbsaas.com,B2B SaaS,341,VP of Sales,no,no,no
+contact118@example-bbsaas.com,B2B SaaS,360,Head of RevOps,yes,no,no
+contact119@example-bbsaas.com,B2B SaaS,380,Sales Manager,no,no,no
+contact120@example-bbsaas.com,B2B SaaS,401,Head of RevOps,no,no,no
+contact121@example-bbsaas.com,B2B SaaS,228,Head of RevOps,no,no,no
+contact122@example-bbsaas.com,B2B SaaS,367,VP of Sales,no,no,no
+contact123@example-bbsaas.com,B2B SaaS,465,VP of Sales,no,no,no
+contact124@example-bbsaas.com,B2B SaaS,376,VP of Sales,no,no,no
+contact125@example-bbsaas.com,B2B SaaS,391,VP of Sales,no,no,no
+contact126@example-bbsaas.com,B2B SaaS,433,VP of Sales,no,no,no
+contact127@example-bbsaas.com,B2B SaaS,259,Head of RevOps,no,no,no
+contact128@example-bbsaas.com,B2B SaaS,441,Head of RevOps,no,no,no
+contact129@example-bbsaas.com,B2B SaaS,300,Head of RevOps,no,no,no
+contact130@example-bbsaas.com,B2B SaaS,346,VP of Sales,yes,no,no
+contact131@example-bbsaas.com,B2B SaaS,269,Head of RevOps,no,no,no
+contact132@example-bbsaas.com,B2B SaaS,291,Head of RevOps,yes,no,no
+contact133@example-bbsaas.com,B2B SaaS,201,Head of RevOps,yes,no,no
+contact134@example-bbsaas.com,B2B SaaS,359,VP of Sales,no,no,no
+contact135@example-bbsaas.com,B2B SaaS,453,Head of RevOps,no,no,no
+contact136@example-bbsaas.com,B2B SaaS,362,Head of RevOps,no,no,no
+contact137@example-bbsaas.com,B2B SaaS,470,Sales Manager,yes,no,no
+contact138@example-bbsaas.com,B2B SaaS,333,Head of RevOps,no,no,no
+contact139@example-bbsaas.com,B2B SaaS,302,Sales Manager,no,no,no
+contact140@example-bbsaas.com,B2B SaaS,335,VP of Sales,no,no,no
+contact141@example-bbsaas.com,B2B SaaS,210,Head of RevOps,no,no,no
+contact142@example-bbsaas.com,B2B SaaS,467,Head of RevOps,no,no,no
+contact143@example-bbsaas.com,B2B SaaS,442,VP of Sales,yes,yes,no
+contact144@example-bbsaas.com,B2B SaaS,299,Sales Manager,no,no,no
+contact145@example-bbsaas.com,B2B SaaS,307,VP of Sales,no,no,no
+contact146@example-bbsaas.com,B2B SaaS,264,VP of Sales,no,no,no
+contact147@example-bbsaas.com,B2B SaaS,426,VP of Sales,no,no,no
+contact148@example-bbsaas.com,B2B SaaS,466,VP of Sales,no,no,no
+contact149@example-bbsaas.com,B2B SaaS,250,VP of Sales,no,no,no
+contact150@example-bbsaas.com,B2B SaaS,341,Head of RevOps,no,no,no
+contact151@example-bbsaas.com,B2B SaaS,260,VP of Sales,no,no,no
+contact152@example-bbsaas.com,B2B SaaS,364,Sales Manager,no,no,no
+contact153@example-bbsaas.com,B2B SaaS,249,VP of Sales,no,no,no
+contact154@example-bbsaas.com,B2B SaaS,454,VP of Sales,no,no,no
+contact155@example-bbsaas.com,B2B SaaS,236,Head of RevOps,no,no,no
+contact156@example-bbsaas.com,B2B SaaS,263,Sales Manager,no,no,no
+contact157@example-bbsaas.com,B2B SaaS,416,Sales Manager,no,no,no
+contact158@example-bbsaas.com,B2B SaaS,376,Sales Manager,no,no,no
+contact159@example-bbsaas.com,B2B SaaS,427,Sales Manager,no,no,no
+contact160@example-bbsaas.com,B2B SaaS,371,VP of Sales,no,no,no
+contact161@example-bbsaas.com,B2B SaaS,251,VP of Sales,yes,yes,no
+contact162@example-bbsaas.com,B2B SaaS,297,Head of RevOps,no,no,no
+contact163@example-bbsaas.com,B2B SaaS,203,VP of Sales,no,no,no
+contact164@example-bbsaas.com,B2B SaaS,410,VP of Sales,no,no,no
+contact165@example-bbsaas.com,B2B SaaS,467,VP of Sales,no,no,no
+contact166@example-bbsaas.com,B2B SaaS,394,VP of Sales,no,no,no
+contact167@example-bbsaas.com,B2B SaaS,418,Head of RevOps,no,no,no
+contact168@example-bbsaas.com,B2B SaaS,305,VP of Sales,no,no,no
+contact169@example-bbsaas.com,B2B SaaS,326,VP of Sales,no,no,no
+contact170@example-bbsaas.com,B2B SaaS,468,Head of RevOps,no,no,no
+contact171@example-bbsaas.com,B2B SaaS,480,VP of Sales,yes,no,no
+contact172@example-bbsaas.com,B2B SaaS,367,Sales Manager,no,no,no
+contact173@example-bbsaas.com,B2B SaaS,270,Head of RevOps,no,no,no
+contact174@example-bbsaas.com,B2B SaaS,395,VP of Sales,no,no,no
+contact175@example-bbsaas.com,B2B SaaS,215,VP of Sales,no,no,no
+contact176@example-bbsaas.com,B2B SaaS,494,VP of Sales,no,no,no
+contact177@example-bbsaas.com,B2B SaaS,278,Sales Manager,no,no,no
+contact178@example-bbsaas.com,B2B SaaS,325,VP of Sales,no,no,no
+contact179@example-bbsaas.com,B2B SaaS,201,VP of Sales,no,no,no
+contact180@example-fintech.com,Fintech,154,Head of RevOps,no,no,no
+contact181@example-fintech.com,Fintech,112,VP of Sales,yes,no,no
+contact182@example-fintech.com,Fintech,175,VP of Sales,no,no,no
+contact183@example-fintech.com,Fintech,147,Head of RevOps,no,no,no
+contact184@example-fintech.com,Fintech,105,VP of Sales,no,no,no
+contact185@example-fintech.com,Fintech,97,VP of Sales,no,no,no
+contact186@example-fintech.com,Fintech,122,Sales Manager,no,no,no
+contact187@example-fintech.com,Fintech,113,VP of Sales,no,no,no
+contact188@example-fintech.com,Fintech,166,Sales Manager,no,no,no
+contact189@example-fintech.com,Fintech,160,Sales Manager,no,no,no
+contact190@example-fintech.com,Fintech,152,VP of Sales,no,no,no
+contact191@example-fintech.com,Fintech,123,Head of RevOps,no,no,no
+contact192@example-fintech.com,Fintech,118,Head of RevOps,no,no,no
+contact193@example-fintech.com,Fintech,91,VP of Sales,no,no,no
+contact194@example-fintech.com,Fintech,183,Sales Manager,no,no,no
+contact195@example-fintech.com,Fintech,80,Sales Manager,no,no,no
+contact196@example-fintech.com,Fintech,115,Head of RevOps,no,no,no
+contact197@example-fintech.com,Fintech,116,VP of Sales,no,no,no
+contact198@example-fintech.com,Fintech,96,Sales Manager,no,no,no
+contact199@example-fintech.com,Fintech,103,Head of RevOps,yes,no,no
+contact200@example-fintech.com,Fintech,120,VP of Sales,no,no,no
+contact201@example-fintech.com,Fintech,148,Head of RevOps,yes,no,no
+contact202@example-fintech.com,Fintech,158,Sales Manager,no,no,no
+contact203@example-fintech.com,Fintech,157,Sales Manager,no,no,no
+contact204@example-fintech.com,Fintech,187,VP of Sales,no,no,no
+contact205@example-fintech.com,Fintech,196,Sales Manager,no,no,no
+contact206@example-fintech.com,Fintech,137,Head of RevOps,no,no,no
+contact207@example-fintech.com,Fintech,67,VP of Sales,no,no,no
+contact208@example-fintech.com,Fintech,139,VP of Sales,no,no,no
+contact209@example-fintech.com,Fintech,103,VP of Sales,no,no,no
+contact210@example-fintech.com,Fintech,101,Head of RevOps,no,no,no
+contact211@example-fintech.com,Fintech,140,VP of Sales,no,no,no
+contact212@example-fintech.com,Fintech,126,Head of RevOps,yes,yes,no
+contact213@example-fintech.com,Fintech,52,Head of RevOps,no,no,no
+contact214@example-fintech.com,Fintech,133,Head of RevOps,no,no,no
+contact215@example-fintech.com,Fintech,109,Sales Manager,no,no,no
+contact216@example-fintech.com,Fintech,197,VP of Sales,no,no,no
+contact217@example-fintech.com,Fintech,76,VP of Sales,no,no,no
+contact218@example-fintech.com,Fintech,108,VP of Sales,no,no,no
+contact219@example-fintech.com,Fintech,168,VP of Sales,no,no,no
+contact220@example-fintech.com,Fintech,53,Head of RevOps,yes,yes,yes
+contact221@example-fintech.com,Fintech,144,Head of RevOps,no,no,no
+contact222@example-fintech.com,Fintech,110,Head of RevOps,no,no,no
+contact223@example-fintech.com,Fintech,63,Head of RevOps,no,no,no
+contact224@example-fintech.com,Fintech,124,VP of Sales,no,no,no
+contact225@example-fintech.com,Fintech,164,VP of Sales,yes,no,no
+contact226@example-fintech.com,Fintech,79,VP of Sales,no,no,no
+contact227@example-fintech.com,Fintech,51,VP of Sales,no,no,no
+contact228@example-fintech.com,Fintech,69,Head of RevOps,no,no,no
+contact229@example-fintech.com,Fintech,87,VP of Sales,no,no,no
+contact230@example-fintech.com,Fintech,109,Head of RevOps,no,no,no
+contact231@example-fintech.com,Fintech,200,Head of RevOps,no,no,no
+contact232@example-fintech.com,Fintech,152,VP of Sales,no,no,no
+contact233@example-fintech.com,Fintech,66,Sales Manager,no,no,no
+contact234@example-fintech.com,Fintech,149,Head of RevOps,no,no,no
+contact235@example-fintech.com,Fintech,92,Sales Manager,no,no,no
+contact236@example-fintech.com,Fintech,172,Head of RevOps,yes,no,no
+contact237@example-fintech.com,Fintech,162,VP of Sales,no,no,no
+contact238@example-fintech.com,Fintech,78,VP of Sales,no,no,no
+contact239@example-fintech.com,Fintech,55,Sales Manager,no,no,no
+contact240@example-fintech.com,Fintech,114,VP of Sales,no,no,no
+contact241@example-fintech.com,Fintech,75,VP of Sales,no,no,no
+contact242@example-fintech.com,Fintech,187,VP of Sales,no,no,no
+contact243@example-fintech.com,Fintech,113,Head of RevOps,no,no,no
+contact244@example-fintech.com,Fintech,199,Sales Manager,yes,no,no
+contact245@example-fintech.com,Fintech,79,Sales Manager,yes,no,no
+contact246@example-fintech.com,Fintech,81,Head of RevOps,no,no,no
+contact247@example-fintech.com,Fintech,167,Head of RevOps,no,no,no
+contact248@example-fintech.com,Fintech,163,Head of RevOps,no,no,no
+contact249@example-fintech.com,Fintech,179,Head of RevOps,no,no,no
+contact250@example-fintech.com,Fintech,173,Head of RevOps,no,no,no
+contact251@example-fintech.com,Fintech,192,Sales Manager,no,no,no
+contact252@example-fintech.com,Fintech,151,Sales Manager,no,no,no
+contact253@example-fintech.com,Fintech,67,VP of Sales,yes,yes,no
+contact254@example-fintech.com,Fintech,159,VP of Sales,no,no,no
+contact255@example-fintech.com,Fintech,53,VP of Sales,no,no,no
+contact256@example-fintech.com,Fintech,104,Sales Manager,no,no,no
+contact257@example-fintech.com,Fintech,134,Sales Manager,no,no,no
+contact258@example-fintech.com,Fintech,108,VP of Sales,no,no,no
+contact259@example-fintech.com,Fintech,121,Head of RevOps,no,no,no
+contact260@example-fintech.com,Fintech,131,VP of Sales,yes,no,no
+contact261@example-fintech.com,Fintech,173,VP of Sales,no,no,no
+contact262@example-fintech.com,Fintech,101,Sales Manager,no,no,no
+contact263@example-fintech.com,Fintech,124,VP of Sales,yes,yes,yes
+contact264@example-fintech.com,Fintech,84,Sales Manager,no,no,no
+contact265@example-fintech.com,Fintech,135,Sales Manager,no,no,no
+contact266@example-fintech.com,Fintech,171,VP of Sales,no,no,no
+contact267@example-fintech.com,Fintech,132,Head of RevOps,no,no,no
+contact268@example-fintech.com,Fintech,110,VP of Sales,no,no,no
+contact269@example-fintech.com,Fintech,187,Sales Manager,no,no,no
+contact270@example-ecommerceplatform.com,E-commerce Platform,15,Head of RevOps,no,no,no
+contact271@example-ecommerceplatform.com,E-commerce Platform,15,Sales Manager,no,no,no
+contact272@example-ecommerceplatform.com,E-commerce Platform,12,Sales Manager,no,no,no
+contact273@example-ecommerceplatform.com,E-commerce Platform,17,VP of Sales,no,no,no
+contact274@example-ecommerceplatform.com,E-commerce Platform,28,VP of Sales,no,no,no
+contact275@example-ecommerceplatform.com,E-commerce Platform,50,Sales Manager,no,no,no
+contact276@example-ecommerceplatform.com,E-commerce Platform,15,Sales Manager,no,no,no
+contact277@example-ecommerceplatform.com,E-commerce Platform,38,Sales Manager,no,no,no
+contact278@example-ecommerceplatform.com,E-commerce Platform,48,VP of Sales,no,no,no
+contact279@example-ecommerceplatform.com,E-commerce Platform,14,VP of Sales,no,no,no
+contact280@example-ecommerceplatform.com,E-commerce Platform,12,Sales Manager,no,no,no
+contact281@example-ecommerceplatform.com,E-commerce Platform,18,Head of RevOps,no,no,no
+contact282@example-ecommerceplatform.com,E-commerce Platform,18,Sales Manager,no,no,no
+contact283@example-ecommerceplatform.com,E-commerce Platform,38,Head of RevOps,no,no,no
+contact284@example-ecommerceplatform.com,E-commerce Platform,29,Sales Manager,no,no,no
+contact285@example-ecommerceplatform.com,E-commerce Platform,45,VP of Sales,no,no,no
+contact286@example-ecommerceplatform.com,E-commerce Platform,14,VP of Sales,no,no,no
+contact287@example-ecommerceplatform.com,E-commerce Platform,33,Head of RevOps,no,no,no
+contact288@example-ecommerceplatform.com,E-commerce Platform,12,VP of Sales,no,no,no
+contact289@example-ecommerceplatform.com,E-commerce Platform,16,Head of RevOps,no,no,no
+contact290@example-ecommerceplatform.com,E-commerce Platform,49,Head of RevOps,no,no,no
+contact291@example-ecommerceplatform.com,E-commerce Platform,43,VP of Sales,no,no,no
+contact292@example-ecommerceplatform.com,E-commerce Platform,48,Head of RevOps,no,no,no
+contact293@example-ecommerceplatform.com,E-commerce Platform,38,VP of Sales,no,no,no
+contact294@example-ecommerceplatform.com,E-commerce Platform,15,VP of Sales,no,no,no
+contact295@example-ecommerceplatform.com,E-commerce Platform,33,VP of Sales,no,no,no
+contact296@example-ecommerceplatform.com,E-commerce Platform,13,Sales Manager,no,no,no
+contact297@example-ecommerceplatform.com,E-commerce Platform,25,Sales Manager,no,no,no
+contact298@example-ecommerceplatform.com,E-commerce Platform,11,Head of RevOps,no,no,no
+contact299@example-ecommerceplatform.com,E-commerce Platform,49,Sales Manager,no,no,no
+contact300@example-ecommerceplatform.com,E-commerce Platform,41,Sales Manager,no,no,no
+contact301@example-ecommerceplatform.com,E-commerce Platform,25,VP of Sales,no,no,no
+contact302@example-ecommerceplatform.com,E-commerce Platform,35,Sales Manager,no,no,no
+contact303@example-ecommerceplatform.com,E-commerce Platform,13,Sales Manager,yes,no,no
+contact304@example-ecommerceplatform.com,E-commerce Platform,22,VP of Sales,no,no,no
+contact305@example-ecommerceplatform.com,E-commerce Platform,11,VP of Sales,no,no,no
+contact306@example-ecommerceplatform.com,E-commerce Platform,17,Head of RevOps,no,no,no
+contact307@example-ecommerceplatform.com,E-commerce Platform,36,VP of Sales,no,no,no
+contact308@example-ecommerceplatform.com,E-commerce Platform,47,Head of RevOps,no,no,no
+contact309@example-ecommerceplatform.com,E-commerce Platform,11,VP of Sales,no,no,no
+contact310@example-ecommerceplatform.com,E-commerce Platform,20,VP of Sales,no,no,no
+contact311@example-ecommerceplatform.com,E-commerce Platform,36,Head of RevOps,no,no,no
+contact312@example-ecommerceplatform.com,E-commerce Platform,45,VP of Sales,no,no,no
+contact313@example-ecommerceplatform.com,E-commerce Platform,35,Head of RevOps,no,no,no
+contact314@example-ecommerceplatform.com,E-commerce Platform,27,VP of Sales,no,no,no
+contact315@example-ecommerceplatform.com,E-commerce Platform,13,VP of Sales,no,no,no
+contact316@example-ecommerceplatform.com,E-commerce Platform,23,VP of Sales,no,no,no
+contact317@example-ecommerceplatform.com,E-commerce Platform,28,Sales Manager,no,no,no
+contact318@example-ecommerceplatform.com,E-commerce Platform,33,VP of Sales,no,no,no
+contact319@example-ecommerceplatform.com,E-commerce Platform,39,Head of RevOps,no,no,no
+contact320@example-ecommerceplatform.com,E-commerce Platform,19,VP of Sales,no,no,no
+contact321@example-ecommerceplatform.com,E-commerce Platform,31,Head of RevOps,no,no,no
+contact322@example-ecommerceplatform.com,E-commerce Platform,26,VP of Sales,no,no,no
+contact323@example-ecommerceplatform.com,E-commerce Platform,21,Head of RevOps,no,no,no
+contact324@example-ecommerceplatform.com,E-commerce Platform,14,Sales Manager,no,no,no
+contact325@example-ecommerceplatform.com,E-commerce Platform,22,VP of Sales,no,no,no
+contact326@example-ecommerceplatform.com,E-commerce Platform,44,VP of Sales,no,no,no
+contact327@example-ecommerceplatform.com,E-commerce Platform,46,VP of Sales,no,no,no
+contact328@example-ecommerceplatform.com,E-commerce Platform,16,Sales Manager,no,no,no
+contact329@example-ecommerceplatform.com,E-commerce Platform,41,VP of Sales,no,no,no
+contact330@example-ecommerceplatform.com,E-commerce Platform,42,VP of Sales,no,no,no
+contact331@example-ecommerceplatform.com,E-commerce Platform,20,VP of Sales,no,no,no
+contact332@example-ecommerceplatform.com,E-commerce Platform,13,VP of Sales,no,no,no
+contact333@example-ecommerceplatform.com,E-commerce Platform,37,Sales Manager,no,no,no
+contact334@example-ecommerceplatform.com,E-commerce Platform,40,VP of Sales,no,no,no
+contact335@example-ecommerceplatform.com,E-commerce Platform,33,Sales Manager,no,no,no
+contact336@example-ecommerceplatform.com,E-commerce Platform,23,Sales Manager,no,no,no
+contact337@example-ecommerceplatform.com,E-commerce Platform,40,Head of RevOps,no,no,no
+contact338@example-ecommerceplatform.com,E-commerce Platform,11,Head of RevOps,no,no,no
+contact339@example-ecommerceplatform.com,E-commerce Platform,50,Head of RevOps,no,no,no
+contact340@example-ecommerceplatform.com,E-commerce Platform,27,Sales Manager,no,no,no
+contact341@example-ecommerceplatform.com,E-commerce Platform,15,Head of RevOps,no,no,no
+contact342@example-ecommerceplatform.com,E-commerce Platform,41,Sales Manager,no,no,no
+contact343@example-ecommerceplatform.com,E-commerce Platform,50,VP of Sales,no,no,no
+contact344@example-ecommerceplatform.com,E-commerce Platform,32,VP of Sales,no,no,no
+contact345@example-ecommerceplatform.com,E-commerce Platform,22,VP of Sales,no,no,no
+contact346@example-ecommerceplatform.com,E-commerce Platform,47,VP of Sales,no,no,no
+contact347@example-ecommerceplatform.com,E-commerce Platform,39,Head of RevOps,no,no,no
+contact348@example-ecommerceplatform.com,E-commerce Platform,33,VP of Sales,no,no,no
+contact349@example-ecommerceplatform.com,E-commerce Platform,30,VP of Sales,no,no,no
+contact350@example-ecommerceplatform.com,E-commerce Platform,15,Head of RevOps,no,no,no
+contact351@example-ecommerceplatform.com,E-commerce Platform,30,VP of Sales,no,no,no
+contact352@example-ecommerceplatform.com,E-commerce Platform,36,VP of Sales,no,no,no
+contact353@example-ecommerceplatform.com,E-commerce Platform,17,Sales Manager,no,no,no
+contact354@example-ecommerceplatform.com,E-commerce Platform,50,Head of RevOps,no,no,no
+contact355@example-ecommerceplatform.com,E-commerce Platform,37,VP of Sales,no,no,no
+contact356@example-ecommerceplatform.com,E-commerce Platform,24,Sales Manager,no,no,no
+contact357@example-ecommerceplatform.com,E-commerce Platform,21,Sales Manager,no,no,no
+contact358@example-ecommerceplatform.com,E-commerce Platform,41,VP of Sales,no,no,no
+contact359@example-ecommerceplatform.com,E-commerce Platform,19,Sales Manager,no,no,no
+contact360@example-healthcareit.com,Healthcare IT,2732,VP of Sales,no,no,no
+contact361@example-healthcareit.com,Healthcare IT,4267,VP of Sales,no,no,no
+contact362@example-healthcareit.com,Healthcare IT,1626,Sales Manager,no,no,no
+contact363@example-healthcareit.com,Healthcare IT,2850,Head of RevOps,no,no,no
+contact364@example-healthcareit.com,Healthcare IT,4857,Head of RevOps,no,no,no
+contact365@example-healthcareit.com,Healthcare IT,2682,VP of Sales,no,no,no
+contact366@example-healthcareit.com,Healthcare IT,4862,VP of Sales,no,no,no
+contact367@example-healthcareit.com,Healthcare IT,3199,Head of RevOps,no,no,no
+contact368@example-healthcareit.com,Healthcare IT,3319,VP of Sales,no,no,no
+contact369@example-healthcareit.com,Healthcare IT,3123,Sales Manager,no,no,no
+contact370@example-healthcareit.com,Healthcare IT,1622,Sales Manager,no,no,no
+contact371@example-healthcareit.com,Healthcare IT,1322,Head of RevOps,no,no,no
+contact372@example-healthcareit.com,Healthcare IT,4755,VP of Sales,no,no,no
+contact373@example-healthcareit.com,Healthcare IT,4717,VP of Sales,no,no,no
+contact374@example-healthcareit.com,Healthcare IT,1894,Head of RevOps,no,no,no
+contact375@example-healthcareit.com,Healthcare IT,3992,VP of Sales,no,no,no
+contact376@example-healthcareit.com,Healthcare IT,3009,Head of RevOps,no,no,no
+contact377@example-healthcareit.com,Healthcare IT,4675,Head of RevOps,no,no,no
+contact378@example-healthcareit.com,Healthcare IT,1947,Sales Manager,no,no,no
+contact379@example-healthcareit.com,Healthcare IT,1302,Head of RevOps,no,no,no
+contact380@example-healthcareit.com,Healthcare IT,1550,VP of Sales,no,no,no
+contact381@example-healthcareit.com,Healthcare IT,2662,Sales Manager,no,no,no
+contact382@example-healthcareit.com,Healthcare IT,1771,Sales Manager,no,no,no
+contact383@example-healthcareit.com,Healthcare IT,1039,Sales Manager,no,no,no
+contact384@example-healthcareit.com,Healthcare IT,4230,VP of Sales,no,no,no
+contact385@example-healthcareit.com,Healthcare IT,2722,Sales Manager,no,no,no
+contact386@example-healthcareit.com,Healthcare IT,3181,Head of RevOps,no,no,no
+contact387@example-healthcareit.com,Healthcare IT,2374,VP of Sales,no,no,no
+contact388@example-healthcareit.com,Healthcare IT,4873,Sales Manager,no,no,no
+contact389@example-healthcareit.com,Healthcare IT,2171,Head of RevOps,no,no,no
+contact390@example-healthcareit.com,Healthcare IT,1839,Sales Manager,no,no,no
+contact391@example-healthcareit.com,Healthcare IT,4570,VP of Sales,no,no,no
+contact392@example-healthcareit.com,Healthcare IT,1994,VP of Sales,no,no,no
+contact393@example-healthcareit.com,Healthcare IT,2431,Sales Manager,no,no,no
+contact394@example-healthcareit.com,Healthcare IT,1194,VP of Sales,no,no,no
+contact395@example-healthcareit.com,Healthcare IT,4501,Head of RevOps,no,no,no
+contact396@example-healthcareit.com,Healthcare IT,2839,VP of Sales,no,no,no
+contact397@example-healthcareit.com,Healthcare IT,2219,VP of Sales,no,no,no
+contact398@example-healthcareit.com,Healthcare IT,2962,VP of Sales,no,no,no
+contact399@example-healthcareit.com,Healthcare IT,3947,Sales Manager,no,no,no
+contact400@example-healthcareit.com,Healthcare IT,4230,VP of Sales,no,no,no
+contact401@example-healthcareit.com,Healthcare IT,1818,VP of Sales,no,no,no
+contact402@example-healthcareit.com,Healthcare IT,3844,Sales Manager,no,no,no
+contact403@example-healthcareit.com,Healthcare IT,1415,Head of RevOps,no,no,no
+contact404@example-healthcareit.com,Healthcare IT,1187,Sales Manager,no,no,no
+contact405@example-healthcareit.com,Healthcare IT,2099,VP of Sales,no,no,no
+contact406@example-healthcareit.com,Healthcare IT,1298,Head of RevOps,no,no,no
+contact407@example-healthcareit.com,Healthcare IT,2866,Head of RevOps,no,no,no
+contact408@example-healthcareit.com,Healthcare IT,3114,VP of Sales,no,no,no
+contact409@example-healthcareit.com,Healthcare IT,4006,VP of Sales,no,no,no
+contact410@example-healthcareit.com,Healthcare IT,3781,Head of RevOps,no,no,no
+contact411@example-healthcareit.com,Healthcare IT,1989,VP of Sales,yes,no,no
+contact412@example-healthcareit.com,Healthcare IT,3729,VP of Sales,no,no,no
+contact413@example-healthcareit.com,Healthcare IT,3103,Head of RevOps,no,no,no
+contact414@example-healthcareit.com,Healthcare IT,3597,Head of RevOps,no,no,no
+contact415@example-healthcareit.com,Healthcare IT,1074,Head of RevOps,no,no,no
+contact416@example-healthcareit.com,Healthcare IT,4471,Head of RevOps,no,no,no
+contact417@example-healthcareit.com,Healthcare IT,4665,VP of Sales,no,no,no
+contact418@example-healthcareit.com,Healthcare IT,4242,VP of Sales,no,no,no
+contact419@example-healthcareit.com,Healthcare IT,4905,Sales Manager,no,no,no
+contact420@example-healthcareit.com,Healthcare IT,1150,VP of Sales,no,no,no
+contact421@example-healthcareit.com,Healthcare IT,1036,Head of RevOps,no,no,no
+contact422@example-healthcareit.com,Healthcare IT,1123,Head of RevOps,no,no,no
+contact423@example-healthcareit.com,Healthcare IT,3923,VP of Sales,no,no,no
+contact424@example-healthcareit.com,Healthcare IT,4438,Sales Manager,no,no,no
+contact425@example-healthcareit.com,Healthcare IT,2491,Head of RevOps,no,no,no
+contact426@example-healthcareit.com,Healthcare IT,4404,Head of RevOps,no,no,no
+contact427@example-healthcareit.com,Healthcare IT,1685,VP of Sales,no,no,no
+contact428@example-healthcareit.com,Healthcare IT,2903,VP of Sales,yes,yes,no
+contact429@example-healthcareit.com,Healthcare IT,1377,VP of Sales,no,no,no
+contact430@example-healthcareit.com,Healthcare IT,2648,VP of Sales,no,no,no
+contact431@example-healthcareit.com,Healthcare IT,3981,VP of Sales,no,no,no
+contact432@example-healthcareit.com,Healthcare IT,1056,Head of RevOps,no,no,no
+contact433@example-healthcareit.com,Healthcare IT,2243,Sales Manager,yes,yes,yes
+contact434@example-healthcareit.com,Healthcare IT,2692,Head of RevOps,yes,no,no
+contact435@example-healthcareit.com,Healthcare IT,2478,Head of RevOps,yes,no,no
+contact436@example-healthcareit.com,Healthcare IT,3430,VP of Sales,no,no,no
+contact437@example-healthcareit.com,Healthcare IT,3267,Sales Manager,no,no,no
+contact438@example-healthcareit.com,Healthcare IT,4204,Head of RevOps,no,no,no
+contact439@example-healthcareit.com,Healthcare IT,2674,VP of Sales,no,no,no
+contact440@example-healthcareit.com,Healthcare IT,1826,VP of Sales,no,no,no
+contact441@example-healthcareit.com,Healthcare IT,4444,Sales Manager,no,no,no
+contact442@example-healthcareit.com,Healthcare IT,4815,Head of RevOps,no,no,no
+contact443@example-healthcareit.com,Healthcare IT,4434,Head of RevOps,no,no,no
+contact444@example-healthcareit.com,Healthcare IT,2771,VP of Sales,no,no,no
+contact445@example-healthcareit.com,Healthcare IT,4472,Head of RevOps,yes,no,no
+contact446@example-healthcareit.com,Healthcare IT,1027,VP of Sales,no,no,no
+contact447@example-healthcareit.com,Healthcare IT,4542,Head of RevOps,no,no,no
+contact448@example-healthcareit.com,Healthcare IT,4748,VP of Sales,no,no,no
+contact449@example-healthcareit.com,Healthcare IT,4214,Sales Manager,no,no,no

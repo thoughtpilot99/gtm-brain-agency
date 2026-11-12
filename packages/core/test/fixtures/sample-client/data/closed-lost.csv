@@ -1,0 +1,59 @@
+company,domain,industry,employees,region,tech,signer_title,deal_value,closed_at
+Brindle Flow,brindleflow.com,DevTools,4,Europe,Salesforce;Outreach,Account Executive,27000,2026-04-12
+Garnet Legal,garnetlegal.com,Fintech,14,North America,HubSpot,VP of Sales,37000,2026-08-04
+Wren Pay,wrenpay.com,Fintech,28,APAC,,Founder & CEO,21000,2026-01-01
+Helix Pay,helixpay.com,Logistics Software,475,Europe,HubSpot,Marketing Manager,55000,2026-08-24
+Pivot Health,pivothealth.io,Healthcare IT,171,Europe,Salesforce,Founder & CEO,59000,2026-01-30
+Rook People,rookpeople.com,Legal Tech,57,North America,Pipedrive,Marketing Manager,23000,2026-09-13
+Ember Cloud,embercloud.com,B2B SaaS,5,Europe,HubSpot;Salesforce,Marketing Manager,13000,2026-06-18
+Pivot Software,pivotsoftware.io,E-commerce Platform,3438,UK & Ireland,,Founder & CEO,42000,2026-08-23
+Delphi Signals,delphisignals.io,B2B SaaS,47,Europe,HubSpot;Pipedrive;Segment,Sales Manager,19000,2026-09-25
+Solace Legal,solacelegal.com,Healthcare IT,3,APAC,,Marketing Manager,24000,2026-02-24
+Nettle Flow,nettleflow.io,Healthcare IT,79,APAC,Salesforce;Pipedrive,Sales Manager,43000,2026-07-20
+Aster Flow,asterflow.ai,Logistics Software,82,Europe,Salesforce;Pipedrive,Sales Manager,48000,2026-02-15
+Tandem Health,tandemhealth.com,B2B SaaS,48,Europe,Outreach,Marketing Manager,12000,2026-09-24
+Fable Signals,fablesignals.com,Healthcare IT,47,North America,Pipedrive,Marketing Manager,56000,2025-12-19
+Vireo Security,vireosecurity.io,Healthcare IT,50,APAC,Outreach,Sales Manager,36000,2026-10-05
+Zinnia Pay,zinniapay.com,Logistics Software,62,APAC,Salesforce,Marketing Manager,20000,2026-02-27
+Vireo Health,vireohealth.io,E-commerce Platform,165,North America,Gong;Outreach,Account Executive,12000,2025-12-13
+Indigo Freight,indigofreight.io,Legal Tech,46,North America,HubSpot;Salesforce,Account Executive,24000,2026-02-21
+Wren Health,wrenhealth.com,Martech,24,APAC,HubSpot;Outreach,Account Executive,47000,2025-12-29
+Onyx Insights,onyxinsights.io,E-commerce Platform,2028,Europe,HubSpot;Salesforce,Marketing Manager,13000,2025-11-19
+Fable Health,fablehealth.com,Healthcare IT,3,Europe,Salesforce;Pipedrive,Sales Manager,44000,2026-10-06
+Delphi Legal,delphilegal.io,B2B SaaS,18,Europe,Pipedrive,Sales Manager,40000,2026-05-14
+Quill People,quillpeople.com,DevTools,390,Europe,Salesforce;Pipedrive,VP of Sales,14000,2026-08-29
+Keystone Freight,keystonefreight.io,Logistics Software,2642,North America,,Founder & CEO,12000,2026-05-01
+Xylo Health,xylohealth.com,B2B SaaS,17,Europe,,Founder & CEO,14000,2026-03-23
+Quill Security,quillsecurity.io,E-commerce Platform,3753,North America,Segment,Chief Revenue Officer,35000,2026-04-28
+Rook Freight,rookfreight.com,E-commerce Platform,363,Europe,Pipedrive,Founder & CEO,18000,2026-05-15
+Wren Insights,wreninsights.com,Legal Tech,234,APAC,HubSpot,VP of Sales,15000,2025-11-17
+Marlow Security,marlowsecurity.io,E-commerce Platform,21,Europe,Salesforce;Segment,Founder & CEO,50000,2026-02-28
+Onyx People,onyxpeople.io,E-commerce Platform,35,LATAM,HubSpot;Segment,Marketing Manager,26000,2026-02-24
+Garnet Commerce,garnetcommerce.io,E-commerce Platform,718,UK & Ireland,Pipedrive,Marketing Manager,43000,2026-07-07
+Nettle Insights,nettleinsights.com,Legal Tech,14,Europe,Pipedrive,Revenue Operations Manager,32000,2025-11-17
+Fable People,fablepeople.ai,Logistics Software,3,North America,Gong;Segment,Sales Manager,53000,2026-07-02
+Solace Freight,solacefreight.com,B2B SaaS,273,UK & Ireland,Salesforce,Sales Manager,15000,2026-03-04
+Quill Commerce,quillcommerce.io,B2B SaaS,1930,APAC,Salesforce,Sales Manager,14000,2026-10-01
+Delphi Software,delphisoftware.io,E-commerce Platform,450,North America,HubSpot;Salesforce;Pipedrive,VP of Sales,35000,2026-10-27
+Keystone Pay,keystonepay.com,Martech,1518,North America,Salesforce;Segment,Account Executive,23000,2026-09-14
+Pivot Pay,pivotpay.com,E-commerce Platform,6,North America,Salesforce,VP of Sales,31000,2026-10-23
+Keystone Flow,keystoneflow.com,Legal Tech,50,APAC,Salesforce;Gong;Segment,VP of Sales,54000,2025-11-19
+Nettle Software,nettlesoftware.io,E-commerce Platform,6,LATAM,Outreach;Segment,VP of Sales,58000,2026-01-01
+Jasper Signals,jaspersignals.com,Fintech,3319,Europe,,Marketing Manager,12000,2026-10-18
+Pivot Insights,pivotinsights.com,B2B SaaS,209,Europe,HubSpot;Salesforce;Pipedrive,Sales Manager,52000,2026-09-13
+Xylo Commerce,xylocommerce.io,Logistics Software,403,UK & Ireland,,Head of Growth,40000,2026-09-22
+Aster Health,asterhealth.com,Healthcare IT,188,North America,,Sales Manager,56000,2026-08-12
+Yonder Software,yondersoftware.ai,Fintech,1145,North America,Salesforce,Head of Growth,23000,2026-05-02
+Helix Flow,helixflow.ai,E-commerce Platform,162,North America,HubSpot;Pipedrive,Founder & CEO,24000,2026-01-04
+Vireo Cloud,vireocloud.com,E-commerce Platform,282,Europe,HubSpot;Segment,Founder & CEO,37000,2026-01-19
+Calder Health,calderhealth.com,B2B SaaS,4870,UK & Ireland,HubSpot;Pipedrive,Sales Manager,42000,2026-09-30
+Marlow Health,marlowhealth.com,E-commerce Platform,251,North America,Salesforce;Pipedrive,Account Executive,14000,2026-04-12
+Solace Pay,solacepay.com,Martech,6,Europe,HubSpot;Outreach,Founder & CEO,26000,2026-03-28
+Brindle Health,brindlehealth.com,E-commerce Platform,2812,Europe,HubSpot;Salesforce;Pipedrive,VP of Sales,54000,2026-07-30
+Helix Legal,helixlegal.io,Martech,86,APAC,Outreach;Segment,VP of Sales,57000,2025-12-12
+Delphi Cloud,delphicloud.com,Healthcare IT,241,Europe,HubSpot;Pipedrive,Founder & CEO,15000,2026-03-31
+Helix Commerce,helixcommerce.com,Fintech,1780,North America,HubSpot;Outreach,Founder & CEO,41000,2026-04-19
+Xylo Signals,xylosignals.com,Healthcare IT,4852,Europe,Pipedrive,Sales Manager,54000,2026-01-20
+Vireo Commerce,vireocommerce.com,Fintech,3970,North America,Salesforce,Head of Growth,52000,2026-10-12
+Jasper Commerce,jaspercommerce.com,Healthcare IT,8,North America,Salesforce;Pipedrive,Account Executive,34000,2026-08-12
+Quill Freight,quillfreight.ai,E-commerce Platform,1731,UK & Ireland,Salesforce;Outreach;Pipedrive,VP of Sales,56000,2026-02-13

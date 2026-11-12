@@ -1,0 +1,144 @@
+company,domain,industry,employees,region,country,tech
+Lumen Labs,lumenlabs.ai,Healthcare IT,166,North America,Canada,HubSpot;Salesforce;Outreach;Gong;Segment;Snowflake;Pipedrive
+Lumen Systems,lumensystems.io,Fintech,3199,North America,United States,
+Lumen Works,lumenworks.io,HR Tech,2387,North America,Canada,Salesloft;Clay
+Lumen Logic,lumenlogic.io,Legal Tech,144,Europe,Germany,Salesforce;Apollo
+Lumen Metrics,lumenmetrics.co,Logistics Software,132,Europe,Netherlands,Salesforce;Outreach;Marketo
+Corvid Labs,corvidlabs.ai,DevTools,167,North America,United States,Salesloft;Clay;Apollo
+Corvid Systems,corvidsystems.io,Legal Tech,2605,Europe,Germany,HubSpot;Salesloft;Gong;Snowflake;Pipedrive;Apollo
+Corvid Works,corvidworks.io,Healthcare IT,15,North America,Canada,Salesforce;Pipedrive;Clay;Apollo
+Corvid Logic,corvidlogic.io,Fintech,273,North America,United States,HubSpot;Salesforce;Salesloft;Marketo;Pipedrive;Clay
+Corvid Metrics,corvidmetrics.co,Cybersecurity,189,North America,United States,HubSpot;Outreach;Pipedrive
+Tidal Labs,tidallabs.co,Martech,278,UK & Ireland,United Kingdom,Gong;Segment;Marketo;Pipedrive
+Tidal Systems,tidalsystems.co,E-commerce Platform,60,UK & Ireland,United Kingdom,Salesforce;Gong;Segment;Clay
+Tidal Works,tidalworks.co,Cybersecurity,456,North America,United States,HubSpot;Salesforce;Intercom;Apollo
+Tidal Logic,tidallogic.co,Martech,154,UK & Ireland,United Kingdom,HubSpot;Segment;Apollo
+Tidal Metrics,tidalmetrics.io,Legal Tech,158,APAC,India,Salesforce;Outreach
+Quarry Labs,quarrylabs.com,DevTools,274,Europe,Germany,Gong;Segment
+Quarry Systems,quarrysystems.com,Healthcare IT,149,Europe,France,Salesforce;Salesloft
+Quarry Works,quarryworks.com,Healthcare IT,1354,North America,Canada,HubSpot;Clay
+Quarry Logic,quarrylogic.com,HR Tech,10,APAC,India,HubSpot;Outreach;Intercom
+Quarry Metrics,quarrymetrics.ai,DevTools,240,Europe,Germany,
+Halcyon Labs,halcyonlabs.co,Logistics Software,486,Europe,Netherlands,Intercom;Pipedrive
+Halcyon Systems,halcyonsystems.co,Martech,179,UK & Ireland,United Kingdom,HubSpot;Intercom;Clay
+Halcyon Works,halcyonworks.co,B2B SaaS,95,Europe,Netherlands,HubSpot;Salesforce;Segment;Pipedrive;Clay
+Halcyon Logic,halcyonlogic.co,Cybersecurity,182,North America,United States,Salesloft;Gong;Segment
+Halcyon Metrics,halcyonmetrics.io,HR Tech,105,North America,Canada,HubSpot;Salesforce;Salesloft;Segment;Intercom
+Vantage Labs,vantagelabs.com,Legal Tech,701,Europe,Germany,Salesloft;Segment;Snowflake;Clay;Apollo
+Vantage Systems,vantagesystems.com,HR Tech,169,North America,Canada,Salesforce;Segment;Apollo
+Vantage Works,vantageworks.com,Fintech,131,Europe,France,Outreach;Marketo
+Vantage Logic,vantagelogic.com,Healthcare IT,72,Europe,France,Segment;Intercom;Pipedrive
+Vantage Metrics,vantagemetrics.ai,Healthcare IT,83,Europe,France,HubSpot;Gong
+Meridian Labs,meridianlabs.ai,Fintech,425,Europe,France,Outreach;Salesloft;Gong;Pipedrive
+Meridian Systems,meridiansystems.io,HR Tech,125,North America,Canada,Salesforce;Gong;Intercom;Pipedrive
+Meridian Works,meridianworks.io,HR Tech,158,North America,Canada,HubSpot;Gong;Intercom;Marketo;Pipedrive;Clay
+Meridian Logic,meridianlogic.io,HR Tech,121,APAC,India,Salesloft;Snowflake;Intercom;Pipedrive;Clay
+Meridian Metrics,meridianmetrics.co,B2B SaaS,100,North America,United States,Salesforce;Gong;Pipedrive
+Pinecrest Labs,pinecrestlabs.ai,DevTools,3036,Europe,Germany,Outreach;Salesloft;Intercom;Pipedrive
+Pinecrest Systems,pinecrestsystems.io,HR Tech,9,North America,Canada,Outreach;Snowflake
+Pinecrest Works,pinecrestworks.io,DevTools,2100,Europe,Germany,Outreach;Snowflake
+Pinecrest Logic,pinecrestlogic.io,Healthcare IT,450,North America,Canada,Marketo;Clay
+Pinecrest Metrics,pinecrestmetrics.co,Logistics Software,28,North America,United States,HubSpot;Snowflake;Intercom
+Ardent Labs,ardentlabs.co,B2B SaaS,442,Europe,Netherlands,Salesforce;Gong;Pipedrive;Clay
+Ardent Systems,ardentsystems.co,Cybersecurity,24,ANZ,Australia,HubSpot;Salesforce;Salesloft;Gong;Segment;Intercom
+Ardent Works,ardentworks.co,E-commerce Platform,152,North America,United States,Salesloft;Snowflake;Marketo
+Ardent Logic,ardentlogic.co,B2B SaaS,2645,Europe,Netherlands,Intercom;Marketo;Clay
+Ardent Metrics,ardentmetrics.io,HR Tech,178,APAC,India,Gong;Marketo;Pipedrive;Apollo
+Kestrel Labs,kestrellabs.com,Healthcare IT,113,Europe,France,Gong;Snowflake;Pipedrive
+Kestrel Systems,kestrelsystems.com,Healthcare IT,116,Europe,France,HubSpot;Outreach
+Kestrel Works,kestrelworks.com,DevTools,3005,North America,United States,Intercom;Apollo
+Kestrel Logic,kestrellogic.com,Fintech,2995,North America,Canada,HubSpot;Outreach;Gong;Intercom
+Kestrel Metrics,kestrelmetrics.ai,Healthcare IT,28,Europe,France,Salesloft
+Saltbox Labs,saltboxlabs.ai,DevTools,382,Europe,Germany,HubSpot;Salesloft;Clay
+Saltbox Systems,saltboxsystems.io,Legal Tech,339,APAC,India,HubSpot;Salesforce;Intercom
+Saltbox Works,saltboxworks.io,Fintech,312,North America,United States,Salesloft;Clay
+Saltbox Logic,saltboxlogic.io,HR Tech,3119,APAC,India,Salesforce;Outreach;Salesloft;Gong;Segment;Intercom;Marketo
+Saltbox Metrics,saltboxmetrics.co,E-commerce Platform,267,UK & Ireland,United Kingdom,Intercom;Pipedrive
+Ironleaf Labs,ironleaflabs.co,B2B SaaS,740,North America,United States,Salesforce;Intercom;Clay;Apollo
+Ironleaf Systems,ironleafsystems.co,Cybersecurity,39,North America,United States,Snowflake;Marketo;Apollo
+Ironleaf Works,ironleafworks.co,B2B SaaS,66,Europe,Netherlands,Salesloft;Marketo
+Ironleaf Logic,ironleaflogic.co,Cybersecurity,82,North America,United States,Gong;Clay;Apollo
+Ironleaf Metrics,ironleafmetrics.io,HR Tech,150,North America,Canada,Salesforce;Pipedrive;Apollo
+Bluefin Labs,bluefinlabs.ai,Healthcare IT,137,Europe,France,Marketo;Clay
+Bluefin Systems,bluefinsystems.io,Healthcare IT,154,North America,Canada,
+Bluefin Works,bluefinworks.io,Legal Tech,2106,Europe,Germany,Outreach;Salesloft;Clay
+Bluefin Logic,bluefinlogic.io,Healthcare IT,372,Europe,France,Salesforce;Outreach;Salesloft;Segment;Intercom;Marketo;Apollo
+Bluefin Metrics,bluefinmetrics.co,E-commerce Platform,22,UK & Ireland,United Kingdom,Marketo
+Cobalt Labs,cobaltlabs.ai,Healthcare IT,80,Europe,France,HubSpot;Salesforce;Salesloft;Intercom;Marketo;Apollo
+Cobalt Systems,cobaltsystems.io,Fintech,118,Europe,France,HubSpot;Salesforce;Salesloft;Gong;Snowflake
+Cobalt Works,cobaltworks.io,HR Tech,2265,APAC,India,Segment;Snowflake;Intercom;Marketo
+Cobalt Logic,cobaltlogic.io,DevTools,1116,Europe,Germany,Gong;Marketo;Pipedrive
+Cobalt Metrics,cobaltmetrics.co,Martech,464,North America,United States,Salesloft;Snowflake;Intercom;Pipedrive;Clay;Apollo
+Foxglove Labs,foxglovelabs.co,Logistics Software,92,North America,United States,Apollo
+Foxglove Systems,foxglovesystems.co,B2B SaaS,2562,Europe,Netherlands,HubSpot;Segment;Intercom;Marketo;Apollo
+Foxglove Works,foxgloveworks.co,B2B SaaS,178,North America,United States,Outreach;Gong;Segment;Marketo;Apollo
+Foxglove Logic,foxglovelogic.co,Martech,12,North America,United States,Salesforce;Intercom;Pipedrive;Apollo
+Foxglove Metrics,foxglovemetrics.io,Fintech,134,Europe,France,Salesforce;Outreach;Clay;Apollo
+Harborline Labs,harborlinelabs.com,Fintech,75,North America,United States,Gong;Intercom;Marketo
+Harborline Systems,harborlinesystems.com,Legal Tech,136,APAC,India,Salesforce;Outreach;Marketo
+Harborline Works,harborlineworks.com,Legal Tech,155,Europe,Germany,Outreach
+Harborline Logic,harborlinelogic.com,Healthcare IT,119,North America,Canada,Gong;Snowflake
+Harborline Metrics,harborlinemetrics.ai,HR Tech,106,North America,Canada,Salesloft;Gong;Snowflake
+Juniper Labs,juniperlabs.io,Legal Tech,14,Europe,Germany,Outreach;Gong;Segment;Snowflake;Apollo
+Juniper Systems,junipersystems.ai,Legal Tech,1861,Europe,Germany,Salesloft;Snowflake;Marketo;Pipedrive;Clay
+Juniper Works,juniperworks.ai,Fintech,144,Europe,France,HubSpot;Salesforce;Marketo;Pipedrive;Clay
+Juniper Logic,juniperlogic.ai,Legal Tech,68,Europe,Germany,Salesloft
+Juniper Metrics,junipermetrics.com,Fintech,1068,North America,United States,HubSpot;Outreach;Marketo;Pipedrive
+Larkspur Labs,larkspurlabs.com,Fintech,181,Europe,France,Salesforce;Salesloft;Gong;Segment;Marketo
+Larkspur Systems,larkspursystems.com,DevTools,151,North America,United States,Salesloft;Snowflake;Marketo;Apollo
+Larkspur Works,larkspurworks.com,DevTools,290,Europe,Germany,Salesloft;Gong
+Larkspur Logic,larkspurlogic.com,Legal Tech,397,APAC,India,Salesloft;Snowflake;Marketo;Clay
+Larkspur Metrics,larkspurmetrics.ai,DevTools,451,North America,United States,Outreach;Salesloft;Pipedrive
+Mosaic Labs,mosaiclabs.com,DevTools,439,North America,United States,Salesloft;Gong;Apollo
+Mosaic Systems,mosaicsystems.com,DevTools,67,North America,United States,HubSpot;Salesforce;Outreach;Salesloft;Gong;Segment
+Mosaic Works,mosaicworks.com,Legal Tech,467,APAC,India,Snowflake;Marketo;Pipedrive;Apollo
+Mosaic Logic,mosaiclogic.com,Fintech,87,North America,United States,Segment;Marketo;Pipedrive
+Mosaic Metrics,mosaicmetrics.ai,Legal Tech,45,Europe,Germany,Salesforce;Apollo
+Nimbus Labs,nimbuslabs.co,B2B SaaS,171,North America,United States,Salesloft;Segment
+Nimbus Systems,nimbussystems.co,B2B SaaS,88,North America,United States,
+Nimbus Works,nimbusworks.co,B2B SaaS,160,Europe,Netherlands,HubSpot;Snowflake
+Nimbus Logic,nimbuslogic.co,B2B SaaS,167,North America,United States,Salesforce;Segment;Snowflake;Apollo
+Nimbus Metrics,nimbusmetrics.io,DevTools,116,Europe,Germany,Intercom;Clay
+Orchard Labs,orchardlabs.io,Fintech,152,North America,United States,Outreach;Segment;Snowflake;Apollo
+Orchard Systems,orchardsystems.ai,HR Tech,924,North America,Canada,
+Orchard Works,orchardworks.ai,DevTools,57,Europe,Germany,HubSpot;Salesloft;Intercom;Pipedrive
+Orchard Logic,orchardlogic.ai,DevTools,45,Europe,Germany,Salesforce;Snowflake;Pipedrive;Clay
+Orchard Metrics,orchardmetrics.com,DevTools,383,North America,United States,Outreach;Segment
+Parallax Labs,parallaxlabs.ai,Healthcare IT,114,Europe,France,Gong;Segment;Marketo
+Parallax Systems,parallaxsystems.io,Fintech,433,Europe,France,Gong;Intercom;Pipedrive;Apollo
+Parallax Works,parallaxworks.io,Legal Tech,360,Europe,Germany,Outreach;Clay
+Parallax Logic,parallaxlogic.io,Fintech,179,North America,United States,Outreach;Segment;Snowflake;Pipedrive;Clay
+Parallax Metrics,parallaxmetrics.co,Logistics Software,145,North America,United States,HubSpot;Salesforce;Gong;Segment;Snowflake;Intercom;Pipedrive
+Redwood Labs,redwoodlabs.com,Fintech,453,North America,United States,Gong;Intercom;Pipedrive;Apollo
+Redwood Systems,redwoodsystems.com,Fintech,173,North America,United States,Outreach;Marketo;Clay
+Redwood Works,redwoodworks.com,Legal Tech,65,North America,United States,HubSpot;Salesforce;Outreach
+Redwood Logic,redwoodlogic.com,Fintech,224,Europe,France,Outreach;Intercom;Pipedrive
+Redwood Metrics,redwoodmetrics.ai,Fintech,85,North America,United States,Outreach;Pipedrive;Apollo
+Sable Labs,sablelabs.ai,DevTools,78,North America,United States,Salesforce;Outreach;Gong;Marketo;Clay;Apollo
+Sable Systems,sablesystems.io,Fintech,451,Europe,France,Outreach;Salesloft
+Sable Works,sableworks.io,DevTools,1680,North America,United States,HubSpot;Gong;Segment;Snowflake;Intercom;Marketo
+Sable Logic,sablelogic.io,DevTools,151,Europe,Germany,Intercom;Marketo
+Sable Metrics,sablemetrics.co,Martech,1706,UK & Ireland,United Kingdom,Salesforce;Gong;Snowflake;Intercom;Apollo
+Thistle Labs,thistlelabs.io,Fintech,73,Europe,France,Salesforce;Snowflake;Clay
+Thistle Systems,thistlesystems.ai,Healthcare IT,222,North America,Canada,Segment;Intercom;Pipedrive
+Thistle Works,thistleworks.ai,Fintech,468,Europe,France,Salesforce;Pipedrive;Apollo
+Thistle Logic,thistlelogic.ai,DevTools,433,North America,United States,HubSpot;Marketo;Pipedrive;Clay
+Thistle Metrics,thistlemetrics.com,Fintech,70,North America,United States,Segment;Snowflake;Marketo;Pipedrive
+Umbra Labs,umbralabs.ai,HR Tech,1552,North America,Canada,Outreach;Salesloft;Gong;Clay
+Umbra Systems,umbrasystems.io,HR Tech,1085,APAC,India,Segment;Snowflake;Apollo
+Umbra Works,umbraworks.io,Fintech,75,Europe,France,HubSpot;Salesloft
+Umbra Logic,umbralogic.io,Fintech,1332,North America,United States,HubSpot;Gong;Segment;Intercom;Marketo;Clay
+Umbra Metrics,umbrametrics.co,E-commerce Platform,58,UK & Ireland,United Kingdom,HubSpot;Marketo
+Verge Labs,vergelabs.ai,Healthcare IT,76,Europe,France,HubSpot;Salesforce;Segment;Marketo;Apollo
+Verge Systems,vergesystems.io,HR Tech,148,North America,Canada,Salesloft;Intercom
+Verge Works,vergeworks.io,Legal Tech,694,APAC,India,Salesforce;Snowflake;Intercom;Marketo;Apollo
+Verge Logic,vergelogic.io,DevTools,109,North America,United States,HubSpot;Salesforce;Outreach;Apollo
+Verge Metrics,vergemetrics.co,B2B SaaS,175,Europe,Netherlands,Salesforce;Outreach;Pipedrive
+Willowby Labs,willowbylabs.ai,Healthcare IT,977,Europe,France,Gong;Snowflake;Intercom;Marketo;Pipedrive
+Willowby Systems,willowbysystems.io,DevTools,115,Europe,Germany,Gong
+Willowby Works,willowbyworks.io,Fintech,1875,North America,United States,HubSpot;Outreach;Salesloft;Segment;Snowflake;Intercom
+Willowby Logic,willowbylogic.io,Legal Tech,428,Europe,Germany,Salesforce
+Willowby Metrics,willowbymetrics.co,B2B SaaS,419,Europe,Netherlands,Outreach;Gong;Segment;Pipedrive;Clay
+Garnet Health,garnethealth.io,B2B SaaS,130,APAC,United States,Gong
+Onyx Cloud,onyxcloud.com,B2B SaaS,474,North America,United States,Salesforce;Outreach;Segment
+Calder Cloud,caldercloud.com,DevTools,714,UK & Ireland,United States,Gong;Outreach

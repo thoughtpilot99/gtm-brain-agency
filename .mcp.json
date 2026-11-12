@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "gtm-brain": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["--import", "tsx", "apps/mcp/src/stdio.ts"],
+      "env": {}
+    }
+  }
+}

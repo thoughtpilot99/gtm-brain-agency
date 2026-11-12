@@ -1,0 +1,65 @@
+company,domain,industry,employees,region,tech,signer_title,deal_value,closed_at
+Garnet Health,garnethealth.io,B2B SaaS,130,APAC,Gong,Director of Sales,33000,2026-06-30
+Onyx Cloud,onyxcloud.com,B2B SaaS,474,North America,Salesforce;Outreach;Segment,VP of Sales,61000,2026-03-31
+Calder Cloud,caldercloud.com,DevTools,714,UK & Ireland,Gong;Outreach,VP of Sales,55000,2025-12-06
+Indigo Software,indigosoftware.io,DevTools,477,North America,HubSpot;Salesforce;Gong;Segment,Chief Revenue Officer,61000,2026-01-17
+Zinnia Freight,zinniafreight.io,Fintech,503,North America,HubSpot,Sales Operations Manager,58000,2026-07-14
+Indigo Pay,indigopay.com,DevTools,208,UK & Ireland,,Chief Revenue Officer,92000,2026-01-15
+Quill Cloud,quillcloud.com,Fintech,200,UK & Ireland,HubSpot;Outreach,Director of Sales,58000,2026-04-20
+Yonder People,yonderpeople.com,B2B SaaS,140,North America,,Director of Sales,80000,2026-01-08
+Ember Software,embersoftware.com,B2B SaaS,463,North America,HubSpot;Salesforce;Gong;Segment,VP of Sales,95000,2026-10-17
+Upland Security,uplandsecurity.io,B2B SaaS,97,North America,Gong,Head of Revenue Operations,59000,2026-02-04
+Marlow Cloud,marlowcloud.com,B2B SaaS,197,UK & Ireland,Gong;Outreach,Head of Revenue Operations,61000,2026-06-05
+Yonder Freight,yonderfreight.io,B2B SaaS,249,North America,,Chief Revenue Officer,72000,2026-06-21
+Brindle Signals,brindlesignals.ai,Fintech,42,North America,HubSpot;Salesforce,VP of Sales,83000,2025-11-30
+Pivot Commerce,pivotcommerce.io,B2B SaaS,742,North America,HubSpot,Chief Revenue Officer,29000,2026-02-23
+Xylo Insights,xyloinsights.io,Fintech,473,North America,Gong;Outreach,Head of Revenue Operations,40000,2026-05-16
+Calder Software,caldersoftware.ai,Cybersecurity,282,UK & Ireland,HubSpot;Pipedrive;Segment,Director of Sales,64000,2026-08-06
+Helix People,helixpeople.com,Martech,345,North America,HubSpot;Gong;Outreach,Chief Revenue Officer,52000,2026-04-28
+Vireo Legal,vireolegal.com,B2B SaaS,229,North America,Gong;Outreach,VP of Sales,26000,2025-11-21
+Garnet Pay,garnetpay.ai,DevTools,59,North America,HubSpot;Gong,VP of Sales,20000,2025-12-08
+Brindle Freight,brindlefreight.com,Cybersecurity,217,North America,Salesforce;Outreach,Founder & CEO,90000,2026-08-02
+Solace Signals,solacesignals.com,B2B SaaS,113,North America,,Chief Revenue Officer,70000,2026-07-14
+Keystone Cloud,keystonecloud.com,B2B SaaS,367,North America,Outreach,Head of Revenue Operations,60000,2026-03-18
+Tandem People,tandempeople.com,Fintech,126,North America,,VP of Sales,35000,2026-01-07
+Aster People,asterpeople.io,E-commerce Platform,294,Europe,HubSpot;Gong;Outreach,VP of Sales,60000,2025-12-08
+Vireo Signals,vireosignals.io,B2B SaaS,434,UK & Ireland,HubSpot;Salesforce;Outreach,Chief Revenue Officer,59000,2026-02-13
+Delphi Commerce,delphicommerce.ai,Fintech,262,North America,,Chief Revenue Officer,89000,2026-10-25
+Indigo Flow,indigoflow.com,DevTools,246,UK & Ireland,HubSpot;Salesforce;Gong,VP of Sales,38000,2026-02-20
+Jasper Legal,jasperlegal.io,B2B SaaS,362,North America,,VP of Sales,76000,2026-06-25
+Yonder Insights,yonderinsights.io,Fintech,161,North America,HubSpot;Salesforce;Outreach;Segment,Head of Revenue Operations,86000,2026-11-02
+Lattice Commerce,latticecommerce.com,B2B SaaS,119,North America,HubSpot;Salesforce;Outreach;Pipedrive;Segment,Chief Revenue Officer,78000,2026-01-03
+Solace Commerce,solacecommerce.com,Fintech,439,APAC,,Chief Revenue Officer,44000,2026-02-09
+Marlow Software,marlowsoftware.com,B2B SaaS,321,North America,HubSpot;Segment,Chief Revenue Officer,32000,2026-03-11
+Indigo Insights,indigoinsights.io,DevTools,349,UK & Ireland,,Sales Operations Manager,49000,2026-07-31
+Xylo Pay,xylopay.com,Fintech,870,UK & Ireland,HubSpot,Founder & CEO,79000,2026-05-10
+Rook Legal,rooklegal.ai,B2B SaaS,550,APAC,HubSpot;Gong,Head of Revenue Operations,33000,2026-01-05
+Calder Flow,calderflow.com,B2B SaaS,388,North America,Outreach,Chief Revenue Officer,58000,2026-09-07
+Calder People,calderpeople.io,Martech,974,UK & Ireland,HubSpot;Salesforce;Outreach,VP of Sales,69000,2026-03-17
+Marlow Signals,marlowsignals.ai,Fintech,67,North America,HubSpot,VP of Sales,78000,2025-12-03
+Rook Security,rooksecurity.io,B2B SaaS,42,UK & Ireland,HubSpot;Salesforce;Gong,Director of Sales,73000,2026-03-16
+Garnet Insights,garnetinsights.io,B2B SaaS,196,Europe,Segment,VP of Sales,80000,2026-05-29
+Yonder Flow,yonderflow.com,B2B SaaS,190,North America,HubSpot;Salesforce;Gong;Outreach,Chief Revenue Officer,84000,2026-02-28
+Upland Software,uplandsoftware.com,Cybersecurity,117,UK & Ireland,Gong;Outreach;Segment,VP of Sales,36000,2025-12-10
+Wren Flow,wrenflow.io,DevTools,56,APAC,HubSpot;Salesforce,VP of Sales,54000,2026-08-20
+Yonder Security,yondersecurity.com,Fintech,60,North America,Salesforce;Gong,Founder & CEO,54000,2025-12-03
+Marlow Freight,marlowfreight.com,Cybersecurity,91,North America,Gong;Outreach;Segment,VP of Sales,96000,2026-04-16
+Delphi Health,delphihealth.com,Martech,20,UK & Ireland,HubSpot;Segment,Founder & CEO,81000,2026-11-01
+Onyx Commerce,onyxcommerce.com,Fintech,112,North America,HubSpot;Salesforce;Gong,Chief Revenue Officer,31000,2025-12-16
+Zinnia Cloud,zinniacloud.io,B2B SaaS,313,North America,Outreach,Chief Revenue Officer,18000,2026-01-20
+Onyx Signals,onyxsignals.com,Cybersecurity,369,North America,HubSpot;Gong;Outreach,Sales Operations Manager,25000,2026-09-06
+Pivot Signals,pivotsignals.com,Fintech,152,North America,Salesforce;Outreach,Head of Revenue Operations,53000,2026-08-29
+Delphi Freight,delphifreight.com,B2B SaaS,164,North America,HubSpot;Outreach,Sales Operations Manager,31000,2026-01-13
+Delphi Security,delphisecurity.com,B2B SaaS,537,North America,HubSpot,VP of Sales,48000,2026-11-07
+Ember Flow,emberflow.io,Fintech,864,UK & Ireland,Salesforce;Outreach,VP of Sales,80000,2026-06-08
+Helix Signals,helixsignals.ai,Cybersecurity,335,North America,HubSpot;Outreach,Founder & CEO,54000,2026-06-07
+Onyx Flow,onyxflow.io,Fintech,431,North America,HubSpot;Gong,Head of Revenue Operations,72000,2026-05-31
+Indigo People,indigopeople.io,DevTools,11,North America,HubSpot;Salesforce,Head of Revenue Operations,55000,2026-03-31
+Garnet People,garnetpeople.io,B2B SaaS,69,North America,HubSpot;Outreach,Director of Sales,47000,2026-08-04
+Garnet Freight,garnetfreight.ai,DevTools,47,North America,HubSpot;Salesforce,Chief Revenue Officer,96000,2026-02-09
+Delphi Insights,delphiinsights.com,B2B SaaS,141,UK & Ireland,Salesforce;Gong;Segment,Head of Revenue Operations,81000,2026-03-09
+Xylo Security,xylosecurity.io,DevTools,90,North America,Gong;Outreach;Segment,Chief Revenue Officer,77000,2026-08-06
+Fable Security,fablesecurity.io,B2B SaaS,159,North America,Outreach,Head of Revenue Operations,27000,2026-04-22
+Rook Commerce,rookcommerce.ai,HR Tech,243,North America,Segment,Sales Operations Manager,94000,2025-12-17
+Tandem Signals,tandemsignals.io,HR Tech,133,North America,HubSpot,Chief Revenue Officer,50000,2026-07-22
+Fable Legal,fablelegal.com,E-commerce Platform,495,North America,Gong;Outreach,Head of Revenue Operations,53000,2026-03-15

@@ -1,0 +1,6 @@
+# Project-level Codex config. Codex loads it when you trust this folder.
+# If your Codex version ignores project config, run instead:
+#   codex mcp add gtm-brain -- node --import tsx apps/mcp/src/stdio.ts
+[mcp_servers.gtm-brain]
+command = "node"
+args = ["--import", "tsx", "apps/mcp/src/stdio.ts"]
