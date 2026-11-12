@@ -153,7 +153,7 @@ flowchart TD
 **You need** Node.js **22.13 or newer** (it uses the built-in `node:sqlite`) and Git.
 
 ```bash
-git clone <your-repo-url> GTM-Brain
+git clone https://github.com/thoughtpilot99/gtm-brain-agency.git GTM-Brain
 cd GTM-Brain
 npm install
 npm run setup        # creates .env.local and syncs skills (no sample data is loaded)
